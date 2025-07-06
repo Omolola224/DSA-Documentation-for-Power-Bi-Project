@@ -31,6 +31,8 @@ To analyze the HR dataset to uncover:
 - Total payout by region
 - Average bonus and salary comparison
 
+  ![Image](https://github.com/Omolola224/DSA-Documentation-for-Power-Bi-Project/blob/main/Favour's%201.png)
+
 ### Data Cleaning Steps:
 -Assigned “N/A” gender label to unknown gender entries
   Removed records with:
