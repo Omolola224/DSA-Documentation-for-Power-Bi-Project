@@ -49,6 +49,9 @@ To analyze the HR dataset to uncover:
 | `palmora_dashboard.xlsx` | Excel dashboard with charts |
 | `README.md` | Project documentation
 
+![Image](https://github.com/Omolola224/DSA-Documentation-for-Power-Bi-Project/blob/main/Favour's.png)
+
+
 ## Tools Used
 
 - Power Bi 
